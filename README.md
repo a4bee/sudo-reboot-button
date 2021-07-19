@@ -1,6 +1,6 @@
 # Sudo reboot button
 Reboot button for Debian-based operating systems. 
-After pressing, device pastes a command "sudo reboot now" and push "enter" (↵) in active window. To make device work use it only in active terminal (Xterm, UXterm etc.).
+After pressing, device pastes a command "sudo reboot now" and presses "enter" (↵) in active window. To make device work use it only in active terminal (Xterm, UXterm etc.).
 
 ## Used materials
 - DigiSpark Attiny85,
