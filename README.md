@@ -9,6 +9,9 @@ After pressing, device pastes a command "sudo reboot now" in active window. To m
 - mini USB cable
 - goldpin cables and connectors
 
+## Schematic diagram
+![diagram](diagram.png)
+
 ## Software
 Software was created in Arduino IDE. 
 To compile code and write it to DigiSpark you should have installed:
