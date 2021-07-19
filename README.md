@@ -10,7 +10,7 @@ After pressing, device pastes a command "sudo reboot now" in active window. To m
 - goldpin cables and connectors
 
 ## Schematic diagram
-![diagram](diagram.png)
+![diagram](diagram.PNG)
 
 ## Software
 Software was created in Arduino IDE. 
